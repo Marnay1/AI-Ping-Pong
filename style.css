@@ -1,0 +1,12 @@
+body
+{
+    background-size: cover;
+}
+.heading{
+    width: 100%;
+    border-radius: 20px;
+}
+#instruction{
+    float: right;
+    height: 35px
+}
