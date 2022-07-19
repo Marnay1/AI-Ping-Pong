@@ -10,3 +10,9 @@ body
     float: right;
     height: 35px
 }
+canvas{
+    border: 5px solid red;
+    box-shadow: 5px 5px 5px forestgreen;
+    border-radius: 10px;
+    margin-top: 20px;
+}
